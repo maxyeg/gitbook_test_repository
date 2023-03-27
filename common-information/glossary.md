@@ -1,4 +1,4 @@
-# Glossary
+# Glossary1
 
 ![](https://wiki.playtika.com/plugins/servlet/confluence/placeholder/macro?definition=e3RvY30\&locale=en\_GB\&version=2)
 
